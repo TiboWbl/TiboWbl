@@ -1,8 +1,8 @@
 ### Bonjour 👋
 
-Product Owner chez Footbar, entreprise innovante dédiée à l'amélioration des performances des joueurs de football grâce à un capteur révolutionnaire, le Meteor.
+🚀 Product Owner chez Footbar, entreprise innovante dédiée à l'amélioration des performances des joueurs de football grâce à un capteur révolutionnaire, le Meteor.
 
-Passionné de sport depuis tout petit, je partage ma passion avec mon domaine d'études, l'ingénierie. J'ai été étudiant à l'ECE Paris et j'ai pu réalisé de nombreux projets en C, C++, Java ou encore en Web (HTML5, CSS3, JavaScript, PHP,...) que vous pouvez retrouver sur ce Github !
+💻 Passionné de sport depuis tout petit, je partage ma passion avec mon domaine d'études, l'ingénierie. J'ai été étudiant à l'ECE Paris et j'ai pu réaliser de nombreux projets en C, C++, Java ou encore en Web (HTML5, CSS3, JavaScript, PHP,...) que vous pouvez retrouver sur ce Github !
 
 <!--
 **TiboWbl/TiboWbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
