@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-🚀 Product Owner chez Footbar, une entreprise innovante dédiée à l'amélioration des performances des joueurs de football grâce à un capteur révolutionnaire, le Meteor.
+🚀 Diplômé en Product Engineering & Innovation à l'ECE Paris, je suis attiré par l'univers du produit. Mon objectif est de travailler dans un environnement où je peux allier ma passion pour le sport à mes compétences en gestion de produit, tout en restant ouvert à d'autres secteurs innovants
 
 💻 Passionné de sport depuis tout petit, je partage ma passion avec mon domaine d'études, l'ingénierie. J'ai été étudiant à l'ECE Paris et j'ai pu réaliser de nombreux projets en C, C++, Java, ou encore en Web (HTML5, CSS3, JavaScript, PHP,...) que vous pouvez retrouver sur ce Github !
 
